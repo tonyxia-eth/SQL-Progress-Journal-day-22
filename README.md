@@ -1,6 +1,6 @@
 # SQL-Progress-Journal-day-22
 
-# 📅 Day 20 – SQL Subqueries & HAVING Clauses
+# 📅 Day 22 – SQL Subqueries & HAVING Clauses
 
 Today was a big one. I tackled advanced SQL concepts and finally wrapped my head around two key topics:
 
